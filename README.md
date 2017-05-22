@@ -43,9 +43,7 @@ You and your partner will get two topics from the list above. It is your job to 
             default:
 
         }
-    };
-
-    ```
+    };```
 
   Link to question: https://stackoverflow.com/questions/34131341/how-to-write-switch-statement-in-angularjs-controller
 
@@ -54,7 +52,7 @@ You and your partner will get two topics from the list above. It is your job to 
 
 ## Topic: Conditionals
 
-2. 
+2.
 
 3. Conditional statements are used to perform different actions based on different conditions.
   In JavaScript we have the following conditional statements:
