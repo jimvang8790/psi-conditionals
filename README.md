@@ -29,31 +29,12 @@ You and your partner will get two topics from the list above. It is your job to 
 
 ## Topic: Switches
 
-2. How to write Switch Statement in angularJS Controller?
-  ```
-  var vm = this;
-  vm.SwitchFuction = function (id, caseStr) {
-        switch (caseStr) {
-            case '1':
-                alert("Selected Case Number is 1");
-                break;
-            case '2':
-                alert("Selected Case Number is 2");
-                break;
-            default:
-
-        }
-    };
-    ```
-
-  Link to question: https://stackoverflow.com/questions/34131341/how-to-write-switch-statement-in-angularjs-controller
+2. Link to question: https://stackoverflow.com/questions/34131341/how-to-write-switch-statement-in-angularjs-controller
 
 3. A statement that is more convenient to use when you have code that needs to choose a path from many to follow. A switch statement is essentially the same as a series of "if" and "else-if" statements. "So, what's the point of even having a switch statement", you may ask. Well, it's simple to use, logical in syntax, and most importantly, many programmers swear by it. You don't have to adopt it when writing conditional statements; in fact, you won't even notice a difference. But as my old science teacher used to say "Try it, you'll like it!"
 
 
 ## Topic: Conditionals
-
-2.
 
 3. Conditional statements are used to perform different actions based on different conditions.
   In JavaScript we have the following conditional statements:
