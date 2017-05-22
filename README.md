@@ -36,6 +36,8 @@ You and your partner will get two topics from the list above. It is your job to 
 
 ## Topic: Conditionals
 
+2. Link to edabit question: https://edabit.com/challenge/nQtiQCoqM6rxWpZmC
+
 3. Conditional statements are used to perform different actions based on different conditions.
   In JavaScript we have the following conditional statements:
 
