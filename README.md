@@ -43,7 +43,8 @@ You and your partner will get two topics from the list above. It is your job to 
             default:
 
         }
-    };```
+    };
+    ```
 
   Link to question: https://stackoverflow.com/questions/34131341/how-to-write-switch-statement-in-angularjs-controller
 
